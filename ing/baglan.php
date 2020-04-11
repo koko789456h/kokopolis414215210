@@ -5,7 +5,7 @@ error_reporting(0);
 
 try 
 {
-	$db=new PDO("mysql:host=localhost;dbname=hammurabix;charset=utf8",'root','ankara2025');
+	$db=new PDO("mysql:host=localhost;dbname=sunpeek12_koko;charset=utf8",'sunpeek12_koko','KokoReis@@125');
 }
 catch (PDOExpception $e) 
 {
